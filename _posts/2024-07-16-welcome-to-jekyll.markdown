@@ -24,6 +24,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+
 Check out my researchgate web page to learn more about my scientifique [publications][scientific-papers] for more info on how to get the most out of my work. Files  related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an [email][idrissa-mail].
 
 [scientific-papers]: https://www.researchgate.net/profile/Idrissa-Dieng-2
