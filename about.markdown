@@ -13,6 +13,6 @@ Furthermore, the insights gained and the advancements made in dengue diagnostics
 
 You can found lastly published papers here:
 
-[CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype][https://journals.asm.org/doi/epub/10.1128/jcm.00405-24] \
+[CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype](https://journals.asm.org/doi/epub/10.1128/jcm.00405-24) \  
 
 [Genomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023](https://www.tandfonline.com/doi/10.1080/22221751.2024.2373308)
