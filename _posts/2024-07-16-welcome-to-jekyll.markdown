@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Launch of O.Mi.Count Tool"
-date:   2024-07-16 15:22:37 +0000
+date:   2024-07-01 15:22:37 +0000
 categories: jekyll update
 ---
 
-... which is shown in the screenshot below:
 ![My helpful screenshot](/assets/omc_jekyll.png)
 
 Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization 
