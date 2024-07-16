@@ -12,5 +12,7 @@ To bridge this knowledge gap, we have utilized Next Generation Sequencing techno
 Furthermore, the insights gained and the advancements made in dengue diagnostics and genomic surveillance have been extended to other West African countries where dengue surveillance programs are deficient, such as Cabo Verde. My whole research is accessible at [researchgate](https://www.researchgate.net/profile/Idrissa-Dieng-2)
 
 You can found lastly published papers here:
-[CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype](https://journals.asm.org/doi/epub/10.1128/jcm.00405-24) /
+
+[CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype](https://journals.asm.org/doi/epub/10.1128/jcm.00405-24)
+
 [Genomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023](https://www.tandfonline.com/doi/10.1080/22221751.2024.2373308)
