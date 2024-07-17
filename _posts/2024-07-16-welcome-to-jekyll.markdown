@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Launch of O.Mi.Count Tool"
 date:   2024-07-01 15:22:37 +0000
 categories: jekyll update
