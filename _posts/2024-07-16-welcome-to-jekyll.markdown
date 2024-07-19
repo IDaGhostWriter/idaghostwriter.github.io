@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Senegal DENV-2 Strains Nextstrain Build in a Global context"
+title:  "Senegal DENV-2 Strains Nextstrain Build in a Global Context"
 date:   2024-07-16 15:22:37 +0000
 categories: category2
 ---
