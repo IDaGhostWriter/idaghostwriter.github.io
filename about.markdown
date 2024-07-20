@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Scientist
-permalink: /about/
+permalink: /TheScientist/
 ---
 
 Idrissa Dieng is spearheading research into viruses, with a primary focus on arboviruses, particularly delving into molecular evolution and the advancement of diagnostic tools. Since its initial detection in Senegal in 1979, Dengue virus has been a prominent concern. The viral landscape, until 2009, was primarily characterized by the presence of sylvatic DENV-2 strains. However, a significant transition occurred with the onset of the first urban epidemic. Subsequently, 
