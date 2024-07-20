@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dengue Virus Diagnostic and Molecular Evolution in Senegal & West Africa
+title: Arboviruses Diagnostic and Molecular Evolution in Senegal & West Africa
 email: idrissa.dieng@pasteur.sn
 description: >- # this means to ignore newlines until "baseurl:"
-  This page provide up to date developpements and works around the Molecular Evolution of Dengue Virus in Senegal and in Africa (West Africa). Leveraging next generation
+  This page provide up to date developpements and works around the Molecular Evolution of Dengue Virus and other Arboviruses in Senegal and in Africa (West Africa). Leveraging next generation
   sequencing methods, Bioinformatics, Phylogenetics and Phylodynamics we study the genetic makup and decipher the dynamic of circulating strains within Africa with a great 
   focus in Senegal.
 baseurl: "" # the subpath of your site, e.g. /blog
