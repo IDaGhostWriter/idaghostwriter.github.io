@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launch of O.Mi.Count Tool"
+title:  "SenDenSeroDash : A dashboard for DENV serotype spatial and temporal tracking"
 date:   2024-07-24 15:22:37 +0000
 categories: category1
 ---
@@ -14,4 +14,4 @@ Check out my researchgate web page to learn more about my scientifique [publicat
 [scientific-papers]: https://www.researchgate.net/profile/Idrissa-Dieng-2
 [IDaGhostWriter-gh]:   https://github.com/IDaGhostWriter
 [idrissa-mail]: mailto:idrissa.dieng@pasteur.sn
-[Dashboard]: https://daghostwriter.shinyapps.io/deployghost1/
+[Dashboard]: https://daghostwriter.shinyapps.io/sendenserodash/
